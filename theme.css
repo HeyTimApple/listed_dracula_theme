@@ -1,0 +1,23 @@
+---
+metatype: css
+---
+
+:root {
+  --dimmed-text-color: #f8f8f2;
+  --dimmed-border-color: #44475a;
+  --background-color: #282a36;
+  --body-text-color: #bd93f9;
+  --post-title-color: #f8f8f2;
+  --post-date-color: #f8f8f2;
+  --post-text-color: #f8f8f2;
+  --page-menu-link-color: #bd93f9;
+  --header-author-name: var(--body-text-color);
+  --header-listed-name: var(--body-text-color);
+  --more-from-border-color: var(--dimmed-border-color);
+  --bio-color: var(--body-text-color);
+  --wordcount-color: var(--body-text-color);
+  --website-color: var(--body-text-color);
+  --twitter-color: var(--body-text-color);
+  --link-color: #f1fa8c;
+  --header-border-color: var(--dimmed-border-color);
+}
